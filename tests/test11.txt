@@ -1,0 +1,5 @@
+{"products":[
+    {"id":"B403", "product":"Cadbury Fingers"},
+    {"id":"B404", "product":"Rich Teas"},
+    {"id":"B405", "product":"Jammy Dodgers"}
+]}
